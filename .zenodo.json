@@ -3,8 +3,6 @@
   "publication_date": "2014-02-14",
   "title": "fitsjs",
   "creators": [{
-      "name": "Amit Kapadia",
-      "affiliation": "ZENODO"
   }],
   "description": "JavaScript library for reading the FITS astronomical format. Functionality includes reading of images, data cubes, compressed images, binary and ascii tables.",
   "access_right": "open",
